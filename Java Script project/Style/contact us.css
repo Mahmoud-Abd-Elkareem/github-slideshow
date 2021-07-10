@@ -1,0 +1,98 @@
+body{
+    margin: 50px 50px;
+}
+#nav {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    }
+.navlinks {
+    margin-right: 50px;
+    text-decoration: none;
+    font-size:15px;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#products {
+    height: auto;
+    width: auto;
+}
+#logo{
+    width: 4%;
+    color: black;
+    margin-right: 8px;
+    margin-left: 10px;
+    }
+    #shopname{
+        font-size: 25px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bolder;
+        width:30%;
+        margin-right:33%;
+        margin-top: 0px;
+    margin-bottom: 0px;
+    }
+    
+#title{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    border-bottom: solid rgba(0,0,0,.10);
+    border-width: 2px;
+}
+#words{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#name{
+    width: 45%;
+    height: 30px;
+    margin-right: 7.36%;
+    margin-bottom: 2%;
+    border-radius: 25px;
+    border-color :rgba(0,0,0,.10);
+}
+#namelbl{
+    margin-right: 50%;
+}
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+}
+#email{
+    width: 45%;
+    height: 30px;
+    margin-bottom: 1%;
+    border-radius: 25px;
+    border-color :rgba(0,0,0,.10);
+}
+#subject{
+    width: 98.36%;
+    height: 30px;
+    margin-bottom: 2%;
+    border-radius: 25px;
+    border-color :rgba(0,0,0,.10);
+}
+#message{
+    width: 98.36%;
+    height: 160px;
+    border-radius: 25px;
+    border-color :rgba(0,0,0,.10);
+    margin-bottom: 1%;
+}
+#btn{
+    width: 10%;
+    height: 35px;
+    background-color: rgb(214, 214, 214);
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    border-radius: 25px;
+    border-style: none;
+    font-weight: bold;
+
+}
